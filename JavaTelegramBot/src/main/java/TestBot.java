@@ -11,7 +11,7 @@ public class TestBot extends DefaultAbsSender {
 
     @Override
     public String getBotToken() {
-        return "1976862242:AAEwCGbsw6TVVJNJmooryRj3vBovGxfYulQ";
+        return "your token";
     }
    @SneakyThrows
     public static void main(String[] args) {

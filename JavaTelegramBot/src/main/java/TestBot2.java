@@ -34,7 +34,7 @@ public class TestBot2 extends TelegramLongPollingBot {
     }
     @Override
     public String getBotToken() {
-        return "1976862242:AAEwCGbsw6TVVJNJmooryRj3vBovGxfYulQ";
+        return "your token";
     }
     @SneakyThrows
     public static void main(String[] args) {
